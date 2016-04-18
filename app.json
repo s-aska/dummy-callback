@@ -2,6 +2,7 @@
     "name": "Dummy callback",
     "description": "Simple callback api,
     "keywords": [
+	"Dummy"
     ],
     "website": "https://github.com/s-aska/dummy-callback",
     "repository": "https://github.com/s-aska/dummy-callback"
